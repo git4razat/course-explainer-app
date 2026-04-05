@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git checkout:*)",
+      "Bash(git commit -m ':*)"
+    ]
+  },
+  "environmentVariables": {
+    "HTTPS_PROXY": "",
+    "HTTP_PROXY": "",
+    "https_proxy": "",
+    "http_proxy": "",
+    "NO_PROXY": "*"
+  }
+}
